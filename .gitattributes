@@ -1,0 +1,5 @@
+esim_model_best.pt filter=lfs diff=lfs merge=lfs -text
+readme.md filter=lfs diff=lfs merge=lfs -text
+requirements.txt filter=lfs diff=lfs merge=lfs -text
+部署文档.md filter=lfs diff=lfs merge=lfs -text
+ESIM.ipynb filter=lfs diff=lfs merge=lfs -text
